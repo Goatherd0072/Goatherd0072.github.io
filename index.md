@@ -1,5 +1,8 @@
-# **unity游戏小练习**
+---
+layout: default
+---
 
+# **unity游戏小练习**
 
 1. [代行](https://github.com/Goatherd0072/daixing)
 
