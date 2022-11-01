@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# Goatherd0072的主页
+
 ## **unity游戏小练习**
 
 1. [代行](https://github.com/Goatherd0072/daixing)
@@ -22,6 +24,6 @@ layout: default
 
 ***
 
-## **杂谈**
+# **杂谈**
 
 ***
