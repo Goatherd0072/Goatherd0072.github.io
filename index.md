@@ -2,9 +2,9 @@
 layout: default
 ---
 
-123456v
+# Goatherd0072的主页
 
-# **unity游戏小练习**
+## **unity游戏小练习**
 
 1. [代行](https://github.com/Goatherd0072/daixing)
 
@@ -16,7 +16,7 @@ layout: default
 
 ***
 
-# **其他小练习**
+## **其他小练习**
 
 1. [RayTracing in One Weekend](https://github.com/Goatherd0072/RaytracingPractise)
 
@@ -24,6 +24,6 @@ layout: default
 
 ***
 
-# **杂谈**
+## **杂谈**
 
 ***
